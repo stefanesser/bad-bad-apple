@@ -37,15 +37,15 @@ they were still vulnerable to because previous patches were incomplete. (MacOS a
 | 8.3            |                | setattrlist() memory corruption (32 bit) 2nd fix |
 | 8.4            |                | setattrlist() memory corruption (32 bit) 2nd fix |
 | 8.4.1          |                | setattrlist() memory corruption (32 bit) 2nd fix |
-| 9.0            |                |                                          |
-| 9.0.1          |                |                                          |
-| 9.0.2          |                |                                          |
-| 9.1            |                |                                          |
-| 9.2            |                |                                          |
-| 9.2.1          |                |                                          |
-| 9.3            |                |                                          |
-| 9.3.1          |                |                                          |
-| 9.3.2          |                |                                          |
+| 9.0            |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.0.1          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.0.2          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.1            |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.2            |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.2.1          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.3            |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.3.1          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
+| 9.3.2          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
 | 9.3.3          |                |                                          |
 | 9.3.4          |                |                                          |
 | 9.3.5          | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
