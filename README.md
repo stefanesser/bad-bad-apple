@@ -3,7 +3,11 @@ A curated list of not properly fixed apple security bugs and attempts to influen
 
 This list will be filled over the next weeks with instances that we know of.
 
-We will create a table showing for every iOS/MacOS/OSX version of the last 5-6 years what vulnerabilities they were vulnerable to that had been previously disclosed/patched and that were not patched correctly.
+Insufficiently patched iOS vulnerabilities
+------------------------------------------
+
+The following table is work in progress. It shows for every iOS versions (since iOS 6.0) what vulnerabilities
+they were still vulnerable to because previous patches were incomplete. (MacOS and OSX table will follow)
 
 | iOS Version    | CVE            | Description |
 | -------------- | -------------- | ----------- |
