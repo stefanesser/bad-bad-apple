@@ -1,14 +1,51 @@
 # bad-bad-apple
 A curated list of not properly fixed apple security bugs and attempts to influence disclosure
 
-
-
-
-
-
 This list will be filled over the next weeks with instances that we know of.
 
 We will create a table showing for every iOS/MacOS/OSX version of the last 5-6 years what vulnerabilities they were vulnerable to that had been previously disclosed/patched and that were not patched correctly.
+
+| iOS Version    | CVE            | Description |
+| -------------- | -------------- | ----------- |
+| 6.0            |                | setattrlist() memory corruption (32 bit) |
+| 6.0.1          |                | setattrlist() memory corruption (32 bit) |
+| 6.1            |                | setattrlist() memory corruption (32 bit) |
+| 6.1.2          |                | setattrlist() memory corruption (32 bit) |
+| 6.1.3          |                | setattrlist() memory corruption (32 bit) |
+| 6.1.4          |                | setattrlist() memory corruption (32 bit) |
+| 6.1.6          |                | setattrlist() memory corruption (32 bit) |
+| 7.0            |                | setattrlist() memory corruption (32 bit) |
+| 7.0.2          |                | setattrlist() memory corruption (32 bit) |
+| 7.0.3          |                | setattrlist() memory corruption (32 bit) |
+| 7.0.4          |                | setattrlist() memory corruption (32 bit) |
+| 7.0.6          |                | setattrlist() memory corruption (32 bit) |
+| 7.1            |                | setattrlist() memory corruption (32 bit) |
+| 7.1.1          |                | setattrlist() memory corruption (32 bit) |
+| 7.1.2          |                | setattrlist() memory corruption (32 bit) |
+| 8.0            |                | setattrlist() memory corruption (32 bit) |
+| 8.0.1          |                | setattrlist() memory corruption (32 bit) |
+| 8.0.2          |                | setattrlist() memory corruption (32 bit) |
+| 8.1            |                | setattrlist() memory corruption (32 bit) |
+| 8.1.1          |                | setattrlist() memory corruption (32 bit) |
+| 8.1.2          |                | setattrlist() memory corruption (32 bit) |
+| 8.1.3          |                | setattrlist() memory corruption (32 bit) |
+| 8.2            |                | setattrlist() memory corruption (32 bit) |
+| 8.3            |                | setattrlist() memory corruption (32 bit) |
+| 8.4            |                | setattrlist() memory corruption (32 bit) |
+| 8.4.1          |                | setattrlist() memory corruption (32 bit) |
+| 9.0            |                |                                          |
+| 9.0.1          |                |                                          |
+| 9.0.2          |                |                                          |
+| 9.1            |                |                                          |
+| 9.2            |                |                                          |
+| 9.2.1          |                |                                          |
+| 9.3            |                |                                          |
+| 9.3.1          |                |                                          |
+| 9.3.2          |                |                                          |
+| 9.3.3          |                |                                          |
+| 9.3.4          |                |                                          |
+| 9.3.5          | CVE-2016-4655  | PEGAUS Infoleak (bug unfixed just one trigger killed) |
+
 
 Your help wanted
 ----------------
