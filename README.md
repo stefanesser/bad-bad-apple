@@ -12,12 +12,12 @@ they were still vulnerable to because previous patches were incomplete. (MacOS a
 | iOS Version    | CVE            | Description |
 | -------------- | -------------- | ----------- |
 | 6.0            |                | setattrlist() memory corruption (32 bit) 1st fix |
-| 6.0.1          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
-| 6.1            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
-| 6.1.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
-| 6.1.3          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
-| 6.1.4          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
-| 6.1.6          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 6.0.1          |                | setattrlist() memory corruption (32 bit) 1st fix<br />kext_request() infoleak |
+| 6.1            |                | setattrlist() memory corruption (32 bit) 1st fix<br />kext_request() infoleak |
+| 6.1.2          |                | setattrlist() memory corruption (32 bit) 1st fix<br />kext_request() infoleak |
+| 6.1.3          |                | setattrlist() memory corruption (32 bit) 1st fix<br />kext_request() infoleak |
+| 6.1.4          |                | setattrlist() memory corruption (32 bit) 1st fix<br />kext_request() infoleak |
+| 6.1.6          |                | setattrlist() memory corruption (32 bit) 1st fix<br />kext_request() infoleak |
 | 7.0            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
 | 7.0.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
 | 7.0.3          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
