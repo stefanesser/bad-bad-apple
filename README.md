@@ -49,9 +49,9 @@ they were still vulnerable to because previous patches were incomplete. (MacOS a
 | 9.2.1          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
 | 9.3            |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
 | 9.3.1          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
-| 9.3.2          |                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)   |
-| 9.3.3          |                |                                          |
-| 9.3.4          |                |                                          |
+| 9.3.2          |<br />CVE-2016-1828                | SysSecInfo showing Processlist (TODO: WRITEUP NEEDED)<br />Brandon Azad reports UAF vulnerability just a few lines away from PEGASUS UAF   |
+| 9.3.3          |CVE-2016-1828                |Brandon Azad reports UAF vulnerability just a few lines away from PEGASUS UAF                                          |
+| 9.3.4          | CVE-2016-1828  |Brandon Azad reports UAF vulnerability just a few lines away from PEGASUS UAF |
 | 9.3.5          | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
 | 10.0.1         | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
 | 10.0.2         | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
