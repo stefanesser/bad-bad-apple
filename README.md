@@ -12,25 +12,25 @@ they were still vulnerable to because previous patches were incomplete. (MacOS a
 | iOS Version    | CVE            | Description |
 | -------------- | -------------- | ----------- |
 | 6.0            |                | setattrlist() memory corruption (32 bit) 1st fix |
-| 6.0.1          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 6.1            |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 6.1.2          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 6.1.3          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 6.1.4          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 6.1.6          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.0            |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.0.2          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.0.3          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.0.4          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.0.6          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.1            |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.1.1          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 7.1.2          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>kext_request() infoleak</li></ul> |
-| 8.0            |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
-| 8.0.1          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
-| 8.0.2          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
-| 8.1            |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
-| 8.1.1          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
+| 6.0.1          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 6.1            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 6.1.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 6.1.3          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 6.1.4          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 6.1.6          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.0            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.0.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.0.3          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.0.4          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.0.6          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.1            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.1.1          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 7.1.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />kext_request() infoleak |
+| 8.0            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br />kext_request() infoleak |
+| 8.0.1          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br />kext_request() infoleak |
+| 8.0.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br />kext_request() infoleak |
+| 8.1            |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br />kext_request() infoleak |
+| 8.1.1          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br />kext_request() infoleak |
 | 8.1.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br /> kext_request() infoleak |
 | 8.1.3          |                | setattrlist() memory corruption (32 bit) 2nd fix |
 | 8.2            |                | setattrlist() memory corruption (32 bit) 2nd fix |
