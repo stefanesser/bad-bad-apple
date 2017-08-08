@@ -48,9 +48,9 @@ they were still vulnerable to because previous patches were incomplete. (MacOS a
 | 9.3.2          |                |                                          |
 | 9.3.3          |                |                                          |
 | 9.3.4          |                |                                          |
-| 9.3.5          | CVE-2016-4655  | PEGAUS Infoleak (actual bug unfixed just one trigger killed) |
-| 10.0.1         | CVE-2016-4655  | PEGAUS Infoleak (actual bug unfixed just one trigger killed) |
-| 10.0.2         | CVE-2016-4655  | PEGAUS Infoleak (actual bug unfixed just one trigger killed) |
+| 9.3.5          | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
+| 10.0.1         | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
+| 10.0.2         | CVE-2016-4655  | PEGASUS Infoleak (actual bug unfixed just one trigger killed) |
 | 10.1           |                |                                          |
 | 10.1.1         |                |                                          |
 | 10.2           |                |                                          |
