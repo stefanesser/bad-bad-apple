@@ -3,6 +3,10 @@ A curated list of not properly fixed apple security bugs and attempts to influen
 
 This list will be filled over the next weeks with instances that we know of.
 
+TODO
+----
+All vulnerabilities require description, link to original source - writeups/talks/...
+
 Insufficiently patched iOS vulnerabilities
 ------------------------------------------
 
