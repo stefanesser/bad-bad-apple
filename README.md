@@ -31,7 +31,7 @@ they were still vulnerable to because previous patches were incomplete. (MacOS a
 | 8.0.2          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
 | 8.1            |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
 | 8.1.1          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li><li>kext_request() infoleak</li></ul> |
-| 8.1.2          |                | <ul><li>setattrlist() memory corruption (32 bit) 2nd fix</li><li>mach_port_kobject() infoleak</li></ul> |
+| 8.1.2          |                | setattrlist() memory corruption (32 bit) 2nd fix<br />mach_port_kobject() infoleak<br /> kext_request() infoleak |
 | 8.1.3          |                | setattrlist() memory corruption (32 bit) 2nd fix |
 | 8.2            |                | setattrlist() memory corruption (32 bit) 2nd fix |
 | 8.3            |                | setattrlist() memory corruption (32 bit) 2nd fix |
