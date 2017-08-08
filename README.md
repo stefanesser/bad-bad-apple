@@ -44,9 +44,9 @@ We will create a table showing for every iOS/MacOS/OSX version of the last 5-6 y
 | 9.3.2          |                |                                          |
 | 9.3.3          |                |                                          |
 | 9.3.4          |                |                                          |
-| 9.3.5          | CVE-2016-4655  | PEGAUS Infoleak (bug unfixed just one trigger killed) |
-| 10.0.1         | CVE-2016-4655  | PEGAUS Infoleak (bug unfixed just one trigger killed) |
-| 10.0.2         | CVE-2016-4655  | PEGAUS Infoleak (bug unfixed just one trigger killed) |
+| 9.3.5          | CVE-2016-4655  | PEGAUS Infoleak (actual bug unfixed just one trigger killed) |
+| 10.0.1         | CVE-2016-4655  | PEGAUS Infoleak (actual bug unfixed just one trigger killed) |
+| 10.0.2         | CVE-2016-4655  | PEGAUS Infoleak (actual bug unfixed just one trigger killed) |
 | 10.1           |                |                                          |
 | 10.1.1         |                |                                          |
 | 10.2           |                |                                          |
