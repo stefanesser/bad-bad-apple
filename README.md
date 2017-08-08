@@ -14,3 +14,4 @@ Your help wanted
 ----------------
 
 However we would love to hear from you what instances you know of (with sources) that should be added to the list.
+You can either do this in public via GitHub or send a private e-mail to badbadapple@antid0te.com .
